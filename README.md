@@ -1,8 +1,6 @@
 DeepThought Assignment
 
-My submission for the AI Business Analyst – Process Management assignment.
-
-Includes:
+My assignment Includes:
 
 - Part A: Diagnosis
 - Part B: Intervention Design
